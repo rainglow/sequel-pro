@@ -2,7 +2,7 @@
 
 ## Sequel Pro
 
-Rainglow is a collection of color themes for a number of different editors and platforms. This repository consists of **250+ syntax and UI themes** for [Sequel Pro](https://www.sequelpro.com/).
+Rainglow is a collection of color themes for a number of different editors and platforms. This repository consists of **320+ syntax and UI themes** for [Sequel Pro](https://www.sequelpro.com/).
 
 To show support for the project, you can do any (or many!) of the following:
 

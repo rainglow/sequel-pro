@@ -1,0 +1,86 @@
+<!--
+This theme is part of Rainglow, a collection of themes for a number
+of different editors.
+
+https://rainglow.io
+
+Copyright (c) Dayle Rees.
+-->
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>settings</key>
+	<array>
+		<dict>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#141619</string>
+				<key>caret</key>
+				<string>#ffffff</string>
+				<key>foreground</key>
+				<string>#c0ccdb</string>
+				<key>lineHighlight</key>
+				<string>#1f2227</string>
+				<key>selection</key>
+				<string>#568769</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Comment</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#76818e</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>String</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#dac25c</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Keyword</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#ee9c3d</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>User-defined constant</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#568769</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Number</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#db5a51</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Variable</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>##ffffff</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
