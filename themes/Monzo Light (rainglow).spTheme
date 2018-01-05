@@ -16,15 +16,15 @@ Copyright (c) Dayle Rees.
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#000000</string>
+				<string>#ffffff</string>
 				<key>caret</key>
-				<string>#ffffff</string>
+				<string>#15243b</string>
 				<key>foreground</key>
-				<string>#ffffff</string>
+				<string>#5a79a8</string>
 				<key>lineHighlight</key>
-				<string>#0d0d0d</string>
+                <string>#f2f2f2</string>
 				<key>selection</key>
-				<string>#f87856</string>
+				<string>#98baa6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -33,7 +33,7 @@ Copyright (c) Dayle Rees.
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#555555</string>
+				<string>#8ba2c4</string>
 			</dict>
 		</dict>
 		<dict>
@@ -42,7 +42,7 @@ Copyright (c) Dayle Rees.
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#21c0fc</string>
+				<string>#f63a4e</string>
 			</dict>
 		</dict>
 		<dict>
@@ -51,7 +51,7 @@ Copyright (c) Dayle Rees.
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#fc4d1f</string>
+				<string>#98baa6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -60,7 +60,7 @@ Copyright (c) Dayle Rees.
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#fdba2c</string>
+				<string>#247888</string>
 			</dict>
 		</dict>
 		<dict>
@@ -69,7 +69,7 @@ Copyright (c) Dayle Rees.
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#fdba2c</string>
+				<string>#3ea7bc</string>
 			</dict>
 		</dict>
 		<dict>
@@ -78,7 +78,7 @@ Copyright (c) Dayle Rees.
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>##aaaaaa</string>
+				<string>##2c4770</string>
 			</dict>
 		</dict>
 	</array>
