@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 1.5.2 | 2018.01.12
+
+Fix silly variables mistake.
+
 ## 1.5.1 | 2018.01.05
 
 Added Monzo theme.

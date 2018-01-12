@@ -78,7 +78,7 @@ Copyright (c) Dayle Rees.
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>##e1efea</string>
+				<string>#e1efea</string>
 			</dict>
 		</dict>
 	</array>

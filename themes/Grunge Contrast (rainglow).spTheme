@@ -78,7 +78,7 @@ Copyright (c) Dayle Rees.
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>##ffc48c</string>
+				<string>#ffc48c</string>
 			</dict>
 		</dict>
 	</array>

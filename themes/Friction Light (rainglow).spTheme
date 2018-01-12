@@ -22,7 +22,7 @@ Copyright (c) Dayle Rees.
 				<key>foreground</key>
 				<string>#38363f</string>
 				<key>lineHighlight</key>
-				<string>#ffffff</string>
+                <string>#f2f2f2</string>
 				<key>selection</key>
 				<string>#6aa7a7</string>
 			</dict>
@@ -78,7 +78,7 @@ Copyright (c) Dayle Rees.
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>##403e4c</string>
+				<string>#403e4c</string>
 			</dict>
 		</dict>
 	</array>

@@ -78,7 +78,7 @@ Copyright (c) Dayle Rees.
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>##cab696</string>
+				<string>#cab696</string>
 			</dict>
 		</dict>
 	</array>
