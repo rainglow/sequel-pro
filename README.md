@@ -1,6 +1,6 @@
 <img alt="Rainglow" src="https://raw.githubusercontent.com/rainglow/examples/master/artwork/header.png" width="400" />
 
-## Sequel Pro
+## Sequel Pro / Sequel Ace
 
 Rainglow is a collection of color themes for a number of different editors and platforms. This repository consists of **320+ syntax and UI themes** for [Sequel Pro](https://www.sequelpro.com/).
 
